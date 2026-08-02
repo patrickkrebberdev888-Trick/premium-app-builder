@@ -1,16 +1,28 @@
-# React + Vite
+# 📱 Premium App Builder (V1)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Premium App Builder** is an open-source, drag-and-drop UI prototyping tool built with React. It allows users to easily design mobile app interfaces and instantly generate ready-to-use Flutter code.
 
-Currently, two official plugins are available:
+### 🚀 Live Demo
+**[ลองใช้งานจริงคลิกที่นี่ (Live Demo)](https://premium-app-builder.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+### ✨ Features (จุดเด่นของแอป)
+- **Drag & Drop Interface:** ออกแบบหน้าจอด้วยการลากวางชิ้นส่วน (Components) เช่น แถบบน (Header), การ์ด, กราฟ, แถบสถานะ ฯลฯ
+- **Flutter Code Export:** กดคลิกเดียว แปลงดีไซน์ทั้งหมดเป็นโค้ด Flutter (Dart) พร้อมนำไปรันได้ทันที
+- **Premium Themes:** มีธีมให้เลือกเปลี่ยนแบบสำเร็จรูป (เช่น Midnight Gold, Rose Quartz)
+- **Project Management:** สามารถกด Save โปรเจกต์เป็นไฟล์ `.json` เพื่อเก็บไว้ หรือ Load กลับมาทำต่อในวันหลังได้
+- **Multi-Screen Support:** สร้างและสลับหน้าจอได้หลายหน้า พร้อมตั้งค่า Action การกดปุ่มเพื่อเปลี่ยนหน้าจอ
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+### 🛠️ Tech Stack
+- React (Vite)
+- JavaScript / JSX
+- Vercel (Deployment)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 💬 Feedback & Contribution
+โปรเจกต์นี้เป็นเวอร์ชันเริ่มต้น (V1) สำหรับการศึกษาและคอมมูนิตี้นักพัฒนา หากเพื่อนๆ พี่ๆ นักพัฒนาท่านใดมีคำแนะนำ หรือเจอบั๊ก สามารถแจ้งผ่าน **Issues** หรือนำไปต่อยอดได้เลยครับ!
+
+---
+*Built for Education & Community | Powered by Developer & Gemini AI*
